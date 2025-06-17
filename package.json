@@ -1,6 +1,6 @@
 {
   "name": "capacitor-datetime-setting",
-  "version": "0.0.1",
+  "version": "7.0.0",
   "description": "Get information about AUTO_TIME and AUTO_TIME_ZONE",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
