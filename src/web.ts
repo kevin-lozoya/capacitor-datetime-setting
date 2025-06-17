@@ -9,7 +9,7 @@ export class DatetimeSettingWeb extends WebPlugin implements DatetimeSettingPlug
   }
 
   async isAutoTimeZoneEnabled(): Promise<BooleanResult> {
-      console.warn('isAutoTimeZoneEnabled is not available on web');
-      return { value: false };
+    console.warn('isAutoTimeZoneEnabled is not available on web');
+    return { value: false };
   }
 }
